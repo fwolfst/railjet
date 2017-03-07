@@ -37,5 +37,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency             "activemodel",          '~> 4.2'
   spec.add_dependency             "virtus",               "~> 1.0.2"
   spec.add_dependency             "validates_timeliness", "~> 3.0.15"
-  spec.add_dependency             "sidekiq-bus",          "~> 0.5.7"
+  spec.add_dependency             "wisper-sidekiq",       "~> 0.0.1"
 end
